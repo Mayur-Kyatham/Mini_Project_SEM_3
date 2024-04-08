@@ -1,4 +1,4 @@
-Problem Statement:
+# Problem Statement:
 
 In this ongoing Covid-19 pandemic and lockdown we all are forced to stay at home. Work
 from home, online classes, no physical activities and all day sitting on the same couch has
@@ -11,7 +11,7 @@ application using MIT App Inventor which will guide the application users to kno
 Fitness category, how to improve their health with proper workout/diet, etc.
 
 
-Description about application and modules of application:
+# Description about application and modules of application:
 
 So here our first slide of application has a start button, clicking on which will take user to
 page which has a menu bar in which there are various options for the user like as follows :
